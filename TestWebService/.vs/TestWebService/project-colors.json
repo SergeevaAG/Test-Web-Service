@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8109d5e-f5ae-4e67-8911-cfd01aa7a0ce": {
+      "ProjectGuid": "f8109d5e-f5ae-4e67-8911-cfd01aa7a0ce",
+      "DisplayName": "TestWebService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
